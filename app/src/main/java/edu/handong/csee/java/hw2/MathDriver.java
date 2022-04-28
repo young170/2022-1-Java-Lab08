@@ -6,7 +6,7 @@ import edu.handong.csee.java.hw2.math.MathCalculator;
  * Runs the program using MathCalculator to operate.
  * @author      Seongbin Kim
  * @version     %I%, %G%
- * Edited new from eclipse via gradle
+ * Edited new from eclipse via gradle.
  */
 public class MathDriver {
     

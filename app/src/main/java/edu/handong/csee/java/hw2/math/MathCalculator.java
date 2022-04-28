@@ -4,10 +4,13 @@ package edu.handong.csee.java.hw2.math;
  * Returns result of operation depending on the input from MathDriver.
  * @author      Seongbin Kim
  * @version     %I%, %G%
- * Edited new from eclipse via gradle
+ * Edited new from eclipse via gradle.
  */
 public class MathCalculator {
-
+	
+	/**
+	 * Sets the name of the driver.
+	 */
     private String name;
 
     /**
